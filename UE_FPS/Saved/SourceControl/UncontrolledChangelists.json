@@ -1,0 +1,48 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Code/Year 2/UE_FPS/Content/Maps/FPSMap.umap",
+				"D:/Apps/Epic Games/UE_5.5/Engine/Content/Maps/Templates/Template_Default.umap",
+				"D:/Code/Year 2/UE_FPS/Content/Blueprint/BP_UE_FPSGameModeBase.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Blueprint/BP_FPSCharacter.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/lambert2.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/proxy_geo_body_m.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/GenericMale_PhysicsAsset.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/GenericMale_Skeleton.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/GenericMale.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/WorldGridMaterial.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/HeroFPP_PhysicsAsset.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/HeroFPP_Skeleton.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/HeroFPP.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Fbx_Default_Material.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Sphere.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/SphereMaterial.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/crosshair.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Blueprint/BP_FPSHUD.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/FPP_Idle.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/FPP_JumpEnd.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/FPP_JumpLoop.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/FPP_JumpStart.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/FPP_Run.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Animations/Arms_AnimBP.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/_defaultMat.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/dark.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/darkMetal.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/metal.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/purple.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/Models/blasterD.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/AI/BP_NPC.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/AI/BT_NPC.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/AI/BB_NPC.uasset",
+				"D:/Apps/Epic Games/UE_5.5/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/AI/AnimBP_NPC.uasset",
+				"D:/Apps/Epic Games/UE_5.5/Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset",
+				"D:/Code/Year 2/UE_FPS/Content/UI/BP_HealthBar.uasset"
+			]
+		}
+	]
+}

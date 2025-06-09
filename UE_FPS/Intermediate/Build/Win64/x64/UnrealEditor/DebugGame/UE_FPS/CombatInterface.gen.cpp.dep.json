@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\code\\year 2\\ue_fps\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_fps\\uht\\combatinterface.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\code\\year 2\\ue_fps\\intermediate\\build\\win64\\x64\\ue_fpseditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\code\\year 2\\ue_fps\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\ue_fps\\definitions.ue_fps.h",
+            "d:\\code\\year 2\\ue_fps\\source\\ue_fps\\combatinterface.h",
+            "d:\\code\\year 2\\ue_fps\\intermediate\\build\\win64\\unrealeditor\\inc\\ue_fps\\uht\\combatinterface.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UE_FPS.cpp.obj": [
+			"BTService_IsPlayerInShootRange.gen.cpp.obj",
+			"BTTask_ChasePlayer.gen.cpp.obj",
+			"BTTask_FindPlayerLocation.gen.cpp.obj",
+			"BTTask_FindRandomLocation.gen.cpp.obj",
+			"BTTask_Fire.gen.cpp.obj",
+			"BTTask_RotateTowardsPlayer.gen.cpp.obj",
+			"CombatInterface.gen.cpp.obj",
+			"FPSCharacter.gen.cpp.obj",
+			"FPSCharacterBase.gen.cpp.obj",
+			"FPSHUD.gen.cpp.obj",
+			"FPSProjectile.gen.cpp.obj",
+			"HealthBarWidget.gen.cpp.obj",
+			"NPC.gen.cpp.obj",
+			"NPC_AIController.gen.cpp.obj",
+			"UE_FPS.init.gen.cpp.obj",
+			"UE_FPSGameModeBase.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BTService_IsPlayerInShootRange.cpp.obj",
+			"BTTask_ChasePlayer.cpp.obj",
+			"BTTask_FindPlayerLocation.cpp.obj",
+			"BTTask_FindRandomLocation.cpp.obj",
+			"BTTask_Fire.cpp.obj",
+			"BTTask_RotateTowardsPlayer.cpp.obj",
+			"CombatInterface.cpp.obj",
+			"FPSCharacter.cpp.obj",
+			"FPSCharacterBase.cpp.obj",
+			"FPSHUD.cpp.obj",
+			"FPSProjectile.cpp.obj",
+			"HealthBarWidget.cpp.obj",
+			"NPC.cpp.obj",
+			"NPC_AIController.cpp.obj",
+			"UE_FPS.cpp.obj",
+			"UE_FPSGameModeBase.cpp.obj"
+		]
+	}
+}

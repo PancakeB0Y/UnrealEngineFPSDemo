@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UE_FPS.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UE_FPSEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\Module.UE_FPS.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTService_IsPlayerInShootRange.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTTask_ChasePlayer.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTTask_FindPlayerLocation.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTTask_FindRandomLocation.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTTask_Fire.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\BTTask_RotateTowardsPlayer.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\CombatInterface.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\FPSCharacter.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\FPSCharacterBase.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\FPSHUD.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\FPSProjectile.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\HealthBarWidget.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\NPC.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\NPC_AIController.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\UE_FPS.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\UE_FPSGameModeBase.cpp.obj"
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\Default.rc2.res"
+/OUT:"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\Development\UE_FPS\UnrealEditor-UE_FPS.lib"

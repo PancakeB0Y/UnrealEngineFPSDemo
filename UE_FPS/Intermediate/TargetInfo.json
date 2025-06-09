@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UE_FPS",
+			"Path": "..\\Source\\UE_FPS.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UE_FPSEditor",
+			"Path": "..\\Source\\UE_FPSEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

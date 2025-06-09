@@ -1,0 +1,50 @@
+"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\UnrealEditor\Inc\UE_FPS\UHT\CombatInterface.gen.cpp"
+/FI"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UE_FPSEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/FI"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\UE_FPS\Definitions.UE_FPS.h"
+/Yu"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UE_FPSEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h"
+/Fp"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UE_FPSEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.pch"
+/Fo"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\UE_FPS\CombatInterface.gen.cpp.obj"
+/experimental:log "D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\UE_FPS\CombatInterface.gen.cpp.sarif"
+/sourceDependencies "D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\UE_FPS\CombatInterface.gen.cpp.dep.json"
+@"D:\Code\Year 2\UE_FPS\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\UE_FPS\UE_FPS.Shared.rsp"
+/d2ssa-cfg-question-
+/Zc:inline
+/nologo
+/Oi
+/FC
+/c
+/Gw
+/Gy
+/utf-8
+/wd4819
+/DSAL_NO_ATTRIBUTE_DECLARATIONS=1
+/permissive-
+/Zc:strictStrings-
+/Zc:__cplusplus
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/Ob2
+/d2ExtendedWarningInfo
+/Od
+/errorReport:prompt
+/EHsc
+/DPLATFORM_EXCEPTIONS_DISABLED=0
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zp8
+/we4456
+/we4458
+/we4459
+/we4668
+/wd4244
+/wd4838
+/TP
+/GR-
+/W4
+/std:c++20
+/Zc:preprocessor
+/wd5054

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Code\\Year 2\\UE_FPS\\Source\\UE_FPS\\UE_FPS.Build.cs",
+		"D:\\Code\\Year 2\\UE_FPS\\Source\\UE_FPS.Target.cs",
+		"D:\\Code\\Year 2\\UE_FPS\\Source\\UE_FPSEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.4"
+}
